@@ -1,0 +1,47 @@
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csprojAssemblyReference.cache
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.Properties.Resources.resources
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csproj.GenerateResource.cache
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csproj.CoreCompileInputs.cache
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.Interface.resources
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaUI.exe.config
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaUI.exe
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaUI.pdb
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.exe
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.pdb
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaBLL.dll
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaDTO.dll
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaBLL.pdb
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaDTO.pdb
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csproj.CopyComplete
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaUI.exe.config
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaUI.exe
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaUI.pdb
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaBLL.dll
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaDTO.dll
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaBLL.pdb
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaDTO.pdb
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csprojAssemblyReference.cache
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.Interface.resources
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.Properties.Resources.resources
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csproj.GenerateResource.cache
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csproj.CoreCompileInputs.cache
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csproj.CopyComplete
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.exe
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.pdb
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.F_Menu.resources
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaUI.exe.config
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaUI.exe
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaUI.pdb
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaBLL.dll
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaDTO.dll
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaBLL.pdb
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\bin\Debug\JogoVelhaDTO.pdb
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csprojAssemblyReference.cache
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.F_Menu.resources
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.Interface.resources
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.Properties.Resources.resources
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csproj.GenerateResource.cache
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csproj.CoreCompileInputs.cache
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.csproj.CopyComplete
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.exe
+C:\Users\Eudes\Desktop\Jogo da Velha\JogoVelhaUI\obj\Debug\JogoVelhaUI.pdb

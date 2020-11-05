@@ -1,0 +1,12 @@
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaDTO\bin\Debug\JogoVelhaDTO.dll
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaDTO\bin\Debug\JogoVelhaDTO.pdb
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaDTO\obj\Debug\JogoVelhaDTO.csprojAssemblyReference.cache
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaDTO\obj\Debug\JogoVelhaDTO.csproj.CoreCompileInputs.cache
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaDTO\obj\Debug\JogoVelhaDTO.dll
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaDTO\obj\Debug\JogoVelhaDTO.pdb
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaDTO\bin\Debug\JogoVelhaDTO.dll
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaDTO\bin\Debug\JogoVelhaDTO.pdb
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaDTO\obj\Debug\JogoVelhaDTO.csprojAssemblyReference.cache
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaDTO\obj\Debug\JogoVelhaDTO.csproj.CoreCompileInputs.cache
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaDTO\obj\Debug\JogoVelhaDTO.dll
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaDTO\obj\Debug\JogoVelhaDTO.pdb

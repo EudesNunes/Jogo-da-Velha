@@ -1,0 +1,18 @@
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaBLL\bin\Debug\JogoVelhaBLL.dll
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaBLL\bin\Debug\JogoVelhaBLL.pdb
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaBLL\obj\Debug\JogoVelhaBLL.csprojAssemblyReference.cache
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaBLL\obj\Debug\JogoVelhaBLL.csproj.CoreCompileInputs.cache
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaBLL\obj\Debug\JogoVelhaBLL.dll
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaBLL\obj\Debug\JogoVelhaBLL.pdb
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaBLL\bin\Debug\JogoVelhaDTO.dll
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaBLL\bin\Debug\JogoVelhaDTO.pdb
+C:\Users\Eudes Nunes\Documents\C#\exercicio c#\Jogo da Velha\JogoVelhaBLL\obj\Debug\JogoVelhaBLL.csproj.CopyComplete
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaBLL\bin\Debug\JogoVelhaBLL.dll
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaBLL\bin\Debug\JogoVelhaBLL.pdb
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaBLL\bin\Debug\JogoVelhaDTO.dll
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaBLL\bin\Debug\JogoVelhaDTO.pdb
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaBLL\obj\Debug\JogoVelhaBLL.csprojAssemblyReference.cache
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaBLL\obj\Debug\JogoVelhaBLL.csproj.CoreCompileInputs.cache
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaBLL\obj\Debug\JogoVelhaBLL.csproj.CopyComplete
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaBLL\obj\Debug\JogoVelhaBLL.dll
+C:\Users\Eudes\Documents\C#\Jogo da Velha\JogoVelhaBLL\obj\Debug\JogoVelhaBLL.pdb
